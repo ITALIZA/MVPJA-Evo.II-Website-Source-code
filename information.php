@@ -88,13 +88,11 @@
                 </div>
                 <div class="col-xl-7">
                     <h1 class="mt-5 pt-5" style="font-size:50px"><b>วันและเวลา</b></h1>
-                    <img src="./assets/images/day.png" class="img-fluid" alt="">
+                    <img src="./assets/images/eveday.png" class="img-fluid" alt="">
                     <p> 1 วันบนดาว Eve มีค่าเท่ากับ 76 ชั่วโมง หรือประมาณ 80500 วินาทีของ Kerbin และ 1 ปีบนดาว Eve ประมาณ 261 วัน บนดาว Kerbin  </p>
 
                     <h1 class="mt-5 pt-5" style="font-size:50px"><b>การโคจรของดวงจันทร์ Gilly</b></h1>
-                    <div class="embed-responsive embed-responsive-16by9 pt-5 pb-5 mb-5">
-                        <iframe style="border-radius:5px" class="embed-responsive-item" src="https://www.youtube.com/embed/lHT-JhLFRlo?autoplay=0" allow="autoplay; encrypted-media"></iframe>
-                    </div>
+                    
                     <p><br>ดวงจันทร์ Gilly เป็นดวงจันทร์เพียงดวงเดียวของดาว Eve มีค่าความรีของวงโคจรเท่ากับ 0.55 และความเอียงของวงโคจรเท่ากับ 10 องศา มีคาบการโคจรรอบดาวอีฟประมาณ 17 วันชองดาว Kerbin</p>
 
                 </div>

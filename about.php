@@ -16,7 +16,7 @@
 
 
     <video class="wow fadeIn" data-wow-delay="0.9s" id="background-video" autoplay loop muted>
-        <source src="assets/images/aboutus.mp4" type="video/mp4">
+        <source src="assets/images/mintjan.mp4" type="video/mp4">
     </video>
 
     <div class="container d-flex" style="height:100vh">

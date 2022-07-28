@@ -190,9 +190,7 @@
 
 
             </ul>
-            <div class="embed-responsive embed-responsive-16by9 pt-5 pb-5 mb-5">
-                <iframe style="border-radius:10px" class="embed-responsive-item" src="https://www.youtube.com/embed/WW0c_U22U-s?autoplay=0" allow="autoplay; encrypted-media"></iframe>
-            </div>
+            
 
         </div>
     </div>

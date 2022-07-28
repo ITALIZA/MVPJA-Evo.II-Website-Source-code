@@ -19,11 +19,11 @@ html{
   background-color: black;
 }
 .stage1 {
-  background: url("../images/stage1.jpg") no-repeat center center ;
+  background: url("../images/pathfinder2.png") no-repeat center center ;
   background-size: cover;
 }
 .stage1_lg {
-  background: url("../images/stage1_lg.jpg") no-repeat center center ;
+  background: url("../images/pathfinder2.png") no-repeat center center ;
   background-size: cover;
 }
 .stage2 {

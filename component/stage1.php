@@ -3,7 +3,7 @@
         <div class="row">
           <div class="col-xl-6 col-sm-6 d-flex " style="height:95vh">
             <div class="align-self-center">
-              <p class="small wow fadeInUp">FIRST STAGE</p>
+              <p class="small wow fadeInUp">FIRST SESSION</p>
               <h1 class="header wow fadeInUp" style="font-size:80px">Pathfinder</h1>
               <p class="wow fadeInUp" data-wow-delay="0.3s" style="font-weight: 300;line-height:1.4">
                 สุดยอดจรวดที่สามารถบรรจุดาวเทียมได้ถึง 7 ตัว ซึ่งเป็นอะไรที่สุดยอดมว๊ากกกก และอีกอย่าง จรวดของเราเมื่อปล่อยดาวเทียม 3 ตัวไว้ที่โลกแล้ว ก็สามารถใช้จรวดอันเดิมไปปล่อยดาวเทียมที่เหลือไว้ที่ดาวอีฟได้เล๊ยยยยยยย ซึ่งเป็นการประหยัดงบประมาณไปอี๊กกกกกกกกกกกกกก
@@ -16,7 +16,7 @@
                         <p><strong>พาร์ทชิ้นส่วน</strong></p>
                       </div>
                       <div class="col-6" style="padding:0">
-                        <p align="right">287 ชิ้น</p>
+                        <p align="right">212 ชิ้น</p>
                       </div>
                     </div>
                   </div>
@@ -25,10 +25,10 @@
                   <div class="container">
                     <div class="row" style="border-bottom:1px solid #868686">
                       <div class="col-6" style="padding:0">
-                        <p><strong>น้ำหนักไร้เชื้อเพลิง / บรรจุเชื้อเพลิง</strong></p>
+                        <p><strong>น้ำหนักรวม</strong></p>
                       </div>
                       <div class="col-6" style="padding:0">
-                        <p align="right">120 ตัน / 430 ตัน</p>
+                        <p align="right">427.9 ตัน</p>
                       </div>
                     </div>
                   </div>
@@ -40,7 +40,7 @@
                         <p><strong>ความสูง</strong></p>
                       </div>
                       <div class="col-6" style="padding:0">
-                        <p align="right">37.1 เมตร</p>
+                        <p align="right">42.5 เมตร</p>
                       </div>
                     </div>
                   </div>
@@ -52,7 +52,7 @@
                         <p><strong>ความกว้าง</strong></p>
                       </div>
                       <div class="col-6" style="padding:0">
-                        <p align="right">13.5 เมตร</p>
+                        <p align="right">6.2 เมตร</p>
                       </div>
                     </div>
                   </div>
@@ -64,23 +64,12 @@
                         <p><strong>แรงขับดันสูงสุด</strong></p>
                       </div>
                       <div class="col-6" style="padding:0">
-                        <p align="right">12,000 กิโลนิวตัน</p>
+                        <p align="right">8388.65 กิโลนิวตัน</p>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.9s">
-                  <div class="container">
-                    <div class="row" style="border-bottom:1px solid #868686">
-                      <div class="col-6" style="padding:0">
-                        <p><strong>การใช้งาน</strong></p>
-                      </div>
-                      <div class="col-6" style="padding:0">
-                        <p align="right">3 ช่วง 14 ขั้นตอน</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
+                
               </div>
             </div>
           </div>

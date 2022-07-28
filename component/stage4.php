@@ -3,11 +3,10 @@
         <div class="row">
             <div class="col-xl-6 col-sm-6 d-flex" style="height:95vh">
                 <div class="align-self-center">
-                    <p class="small wow fadeInUp">FOURTH STAGE</p>
-                    <h1 class="header wow fadeInUp" style="font-size:80px">KHAOS EAGLE</h1>
+                    <p class="small wow fadeInUp">FOURTH SESSION</p>
+                    <h1 class="header wow fadeInUp" style="font-size:80px">GRAVITON</h1>
                     <p class="wow fadeInUp" data-wow-delay="0.3s" style="font-weight: 300;line-height:1.4">
-                        ดาวเทียม KHAOS EAGLE ถูกออกแบบมาเพื่อให้สำรวจแร่ธาตุและทรัพยากรณ์ทางธรณีได้แทบทุกอนูลผิว ซึ่งดาวเทียมถูกติดตั้งเครื่องยนต์ Ion Drive ซึ่งประหยัดพลังงานมาก
-                        เคลื่อนที่ตามแนววงโครจรได้ 2 แบบที่ต้องการสำรวจ ทั้งแนวเหนือใต้และแนวแกนตะวันออกและตะวันตก ถูกออกแบบพิกัดและวงโคจรให้มีอัตรสัญญาณบอดต่ำมากที่สุด </p>
+                        Graviton นั้นสื่อความหมายถึง Gravity ซึ่งแปลว่า แรงโน้มถ่วง เราได้บรรจุเครื่องสร้างแรงโน้มถ่วงจำลองทั้ง 4 แขน เพื่อใช้สำหรับการสร้างแรงโน้มถ่วงจำลองบนยานขณะเดินทางไปยังดาวอีฟ  </p>
                     <div class="row mt-4">
                         <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.6s">
                             <div class="container">

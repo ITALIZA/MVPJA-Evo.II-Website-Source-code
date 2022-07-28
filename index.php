@@ -49,18 +49,15 @@
           <h1 align="center" id="nbr1" class="header" style="font-size: 60px;">17</h1>
           <h5 align="center">ลงจอด (ครั้ง)</h5>
         </div>
-        <div class="col-4 wow fadeIn">
-          <h1 align="center" id="nbr2" class="header" style="font-size: 60px;">48</h1>
-          <h5 align="center">ออกตัว (ครั้ง)</h5>
-        </div>
+
         <div class="col-4 wow fadeIn">
           <h1 align="center" id="nbr3" class="header" style="font-size: 60px;">57</h1>
           <h5 align="center">Docking (ครั้ง)</h5>
-        </div
+</div>
 
-      </div>
+  
     </div>
-
+</div>
 
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">

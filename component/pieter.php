@@ -13,7 +13,7 @@
                     <br>  แผนการเรียน Gifted Techonology สาขา Computer
                     </p>
                     <p><strong>หน้าที่</strong></p>
-                    <p> Pilot , Program Manager , Craft designer </p>
+                    <p> Pilot , Program Manager , Craft designer and Engineer </p>
                     <p><strong>ความสามารถพิเศษและผลงาน</strong></p>
                     <p>ช่างภาพของโรงเรียนมงฟอร์ตวิทยาลัย</p>
                     <p>เข้าร่วมค่าย NYC 15th 2022</p>

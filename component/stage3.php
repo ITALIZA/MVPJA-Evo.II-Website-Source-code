@@ -3,10 +3,10 @@
         <div class="row">
             <div class="col-xl-6 col-sm-6 d-flex" style="height:95vh">
                 <div class="align-self-center">
-                    <p class="small wow fadeInUp">THIRD STAGE</p>
-                    <h1 class="header wow fadeInUp" style="font-size:80px">KHAOS MICKEY</h1>
+                    <p class="small wow fadeInUp">THIRD SESSION</p>
+                    <h1 class="header wow fadeInUp" style="font-size:80px">EVE CHALLENGER</h1>
                     <p class="wow fadeInUp" data-wow-delay="0.3s" style="font-weight: 300;line-height:1.4">
-                        ที่ยานได้นามว่ามิกกี้เพราะผู้ออกแบบได้ออกแบบให้คล้ายมิกกี้เมาส์ ดูน่ารัก เป็นมิตรและได้ออกแบบให้มีจุดศุนย์ถ่วงต่ำมากเพื่อกันอุบัติเหตุพลิกคว่ำทุกรูบแบบและโครงสร้างที่แข็งแรงมาก แต่น้ำหนักเบา</p>
+                        จรวดแรงดันสูงที่บรรจุเรือดำน้ำด้านใน Payload และ Command pod ที่สามารถรองรับลูกเรือได้ถึง 2 คน</p>
                     <div class="row mt-4">
                         <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.6s">
                             <div class="container">
