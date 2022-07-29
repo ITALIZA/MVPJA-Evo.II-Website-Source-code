@@ -42,31 +42,6 @@
             <h1 style="font-size:50px"><b>ข้อมูลแผนที่และทรัพยากร</b></h1>
 
             <div class="row">
-                <div class="col-xl-6 pt-4">
-                    <h2><b>ทรัพยากรใต้ธรณี</b></h2>
-                    <img src="./assets/images/ore.jpg" class="img-fluid" style="border-radius:10px" alt="">
-                    <div class="row">
-                        <div class="col-8">
-                            <p> <br>จากการสำรวจทรัพยากรใต้ธรณีโดย KHAOS EAGLE ทำให้สามารถระบุตำแหน่งและปริมาณความหนาแน่นของแร่ธาตุใต้ธรณีได้ โดยใช้เกณฑ์ดังนี้</p>
-
-                        </div>
-                        <div class="col-4">
-                            <img src="./assets/images/rate.png" class="img-fluid pt-3" alt="">
-
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-xl-6 pt-4">
-                    <h2><b>พื้นที่ที่น่าอาศัยอยู่</b></h2>
-
-                    <img src="./assets/images/liveable.jpg" class="img-fluid" style="border-radius:10px" alt="">
-                    <p> <br>จากข้อมูลทรัพยากรใต้ธรณีและการสำรวจเพิ่มเติมสามารถสรุปได้ว่า พื้นที่ในรูปภาพนั้นคือพื้นที่ที่น่าอาศัยอยู่เนื่องจากมีความหนาแน่นของชั้นบรรยากาศสูง อุณหภูมิพอเหมาะ และปริมาณแร่สามารถขุดเจาะขึ้นมาใช้งานได้</p>
-
-                </div>
-            </div>
-
-            <div class="row">
                 <div class="col-xl-12 pt-5">
                     <h1 align="center" class="mt-5 pt-5" style="font-size:50px"><b>ความน่าอยู่อาศัยเปรียบเทียบระหว่างโลกกับดาวอีฟ</b></h1>
                     <img src="./assets/images/different earth eve.jpg" class="img-fluid" alt="">
@@ -91,9 +66,6 @@
                     <img src="./assets/images/eveday.png" class="img-fluid" alt="">
                     <p> 1 วันบนดาว Eve มีค่าเท่ากับ 76 ชั่วโมง หรือประมาณ 80500 วินาทีของ Kerbin และ 1 ปีบนดาว Eve ประมาณ 261 วัน บนดาว Kerbin  </p>
 
-                    <h1 class="mt-5 pt-5" style="font-size:50px"><b>การโคจรของดวงจันทร์ Gilly</b></h1>
-                    
-                    <p><br>ดวงจันทร์ Gilly เป็นดวงจันทร์เพียงดวงเดียวของดาว Eve มีค่าความรีของวงโคจรเท่ากับ 0.55 และความเอียงของวงโคจรเท่ากับ 10 องศา มีคาบการโคจรรอบดาวอีฟประมาณ 17 วันชองดาว Kerbin</p>
 
                 </div>
                 <div class="col-xl-7">

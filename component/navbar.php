@@ -40,13 +40,7 @@
                     ?>>
                   <a href="project.php" class="nav-link">Project</a>
                 </li>
-                <li <?php
-                    if ($_SERVER['PHP_SELF'] == '/lasp/discover.php') {
-                      echo "class='active'";
-                    }
-                    ?>>
-                  <a href="discover.php" class="nav-link">Discover</a>
-                </li>
+                
                 <li <?php
                     if ($_SERVER['PHP_SELF'] == '/lasp/information.php') {
                       echo "class='active'";

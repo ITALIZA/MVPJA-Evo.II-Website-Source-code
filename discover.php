@@ -59,36 +59,7 @@
                     </div>
 
                 </li>
-                <li class="">
-
-                    <div class="timeline-panel">
-                        <div class="timeline-heading">
-                            <p align="right">ใช้แรงเหวี่ยงดวงจันทร์บริวาร</p>
-                            <!--p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></!--p-->
-                        </div>
-                        <div class="timeline-body">
-                            <video class="img-fluid" autoplay loop muted>
-                                <source src="assets/images/sling1.mp4" type="video/mp4">
-                            </video>
-                        </div>
-                    </div>
-
-                </li>
-                <li class="">
-
-                    <div class="timeline-panel">
-                        <div class="timeline-heading">
-                            <p align="right">ใช้แรงเหวี่ยงดวงอาทิตย์ไปดาวดูน่า</p>
-                            <!--p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></!--p-->
-                        </div>
-                        <div class="timeline-body">
-                            <video class="img-fluid" autoplay loop muted>
-                                <source src="assets/images/sling2.mp4" type="video/mp4">
-                            </video>
-                        </div>
-                    </div>
-
-                </li>
+                
                 <li class="timeline-inverted">
 
                     <div class="timeline-panel">

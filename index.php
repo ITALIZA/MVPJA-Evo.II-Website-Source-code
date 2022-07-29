@@ -51,7 +51,7 @@
         </div>
 
         <div class="col-4 wow fadeIn">
-          <h1 align="center" id="nbr3" class="header" style="font-size: 60px;">57</h1>
+          <h1 align="center" id="nbr3" class="header" style="font-size: 60px;">152</h1>
           <h5 align="center">Docking (ครั้ง)</h5>
 </div>
 
@@ -81,6 +81,16 @@
         include('./component/stage4.php');
         ?>
         </div>
+        <div class="carousel-item">
+        <?php
+        include('./component/stage5.php');
+        ?>
+        </div>
+        <div class="carousel-item">
+        <?php
+        include('./component/stage6.php');
+        ?>
+        </div>
       </div>
       <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -100,8 +110,8 @@
 </div>
     </!--div-->
     <div class="container pb-5 pt-5">
-      <h1 class="pb-5 pt-5" style="font-weight: 700;line-height:1.3">เปรียบเทียบความสูงของกระสวยอวกาศ </h1>
-      <img src="./assets/images/compare.png" class="img-fluid" alt="">
+      <h1 class="pb-5 pt-5" style="font-weight: 700;line-height:1.3">เปรียบเทียบความสูงของกระสวยอวกาศกับ Eve challenger </h1>
+      <img src="./assets/images/rocket.jpg" class="img-fluid" alt="">
       <h5 class="mt-5 mb-5">เราเจอคำถามท้าทายมากมายในการพัฒนากระสวยอวกาศให้กระสวยอวกาศที่เราผลิตมานั้นคุ้มค่าและประหยัดทรัพยากรณ์มากที่สุด เนื่องจากยานของเรามีขนาดเล็กกว่าเมื่อเทียบกับที่ยานที่เคยสร้างมาแต่ความสามารถในการสำรวจและความก้าวล้ำเทคโนโลยีสูงมากจึงทำให้ประหยัดงบประมาณซึ่งได้มาจากผู้เสียภาษี ถือว่าเป็นเรื่องที่น่ายินดีเป็นอย่างมาก</h5>
     </div>
 

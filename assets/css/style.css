@@ -27,27 +27,43 @@ html{
   background-size: cover;
 }
 .stage2 {
-  background: url("../images/stage2.jpg") no-repeat center center;
+  background: url("../images/lab3.png") no-repeat center center;
   background-size: cover;
 }
 .stage2_lg {
-  background: url("../images/stage2_lg.jpg") no-repeat center center;
+  background: url("../images/lab3.png") no-repeat center center;
   background-size: cover;
 }
 .stage3 {
-  background: url("../images/stage3.jpg") no-repeat center center;
+  background: url("../images/evechallenger.png") no-repeat center center;
   background-size: cover;
 }
 .stage3_lg {
-  background: url("../images/stage3_lg.jpg") no-repeat center center;
+  background: url("../images/evechallenger.png") no-repeat center center;
   background-size: cover;
 }
 .stage4 {
-  background: url("../images/stage4.jpg") no-repeat center center;
+  background: url("../images/graviton.png") no-repeat center center;
   background-size: cover;
 }
 .stage4_lg {
-  background: url("../images/stage4_lg.jpg") no-repeat center center;
+  background: url("../images/graviton.png") no-repeat center center;
+  background-size: cover;
+}
+.stage5 {
+  background: url("../images/sstonew.png") no-repeat center center;
+  background-size: cover;
+}
+.stage5_lg {
+  background: url("../images/sstonew.png") no-repeat center center;
+  background-size: cover;
+}
+.stage6 {
+  background: url("../images/everover.png") no-repeat center center;
+  background-size: cover;
+}
+.stage6_lg {
+  background: url("../images/everover.png") no-repeat center center;
   background-size: cover;
 }
 .owl-dot:focus {
