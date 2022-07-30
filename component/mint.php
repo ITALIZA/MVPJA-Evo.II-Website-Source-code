@@ -1,7 +1,7 @@
 <div class="row pt-5">
     <div class="col-xl-6">
         <p align="center">
-            <img src="./assets/images/mint.png" s class="img-fluid" alt="">
+            <img src="./assets/images/mint2.png" s class="img-fluid" alt="">
         </p>
         <h1 align="center" class="header" style="font-size:60px;">CREATIVE</h1>
     </div>
