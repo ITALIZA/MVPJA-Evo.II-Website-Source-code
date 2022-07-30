@@ -16,7 +16,7 @@
 
 
   <video class="wow fadeIn" data-wow-delay="0.9s" id="background-video" autoplay loop muted>
-    <source src="assets/images/banner.mp4" type="video/mp4">
+    <source src="assets/images/milkyway.mp4" type="video/mp4">
   </video>
 
   <div class="container-fluid d-flex " style="max-width:500px;height:100vh">
