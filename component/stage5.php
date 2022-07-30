@@ -21,18 +21,7 @@
                             </div>
                         </div>
                         
-                        <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
-                            <div class="container">
-                                <div class="row" style="border-bottom:1px solid #868686">
-                                    <div class="col-6" style="padding:0">
-                                        <p><strong>ความสูง</strong></p>
-                                    </div>
-                                    <div class="col-6" style="padding:0">
-                                        <p align="right">3.9 เมตร</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        
                         <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
                             <div class="container">
                                 <div class="row" style="border-bottom:1px solid #868686">
@@ -57,18 +46,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
-                            <div class="container">
-                                <div class="row" style="border-bottom:1px solid #868686">
-                                    <div class="col-6" style="padding:0">
-                                        <p><strong>น้ำหนักรวม </strong></p>
-                                    </div>
-                                    <div class="col-6" style="padding:0">
-                                        <p align="right">47.4 ตัน</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        
                         <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
                             <div class="container">
                                 <div class="row" style="border-bottom:1px solid #868686">

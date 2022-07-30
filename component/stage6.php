@@ -1,5 +1,5 @@
 <div class="stage6 d-none d-xl-block">
-    <div class="container">
+<div class="container">
         <div class="row">
             <div class="col-xl-6 col-sm-6 d-flex" style="height:95vh">
                 <div class="align-self-center">
@@ -20,31 +20,7 @@
                                 </div>
                             </div>
                         </div>
-                        
-                        <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
-                            <div class="container">
-                                <div class="row" style="border-bottom:1px solid #868686">
-                                    <div class="col-6" style="padding:0">
-                                        <p><strong>ความสูง</strong></p>
-                                    </div>
-                                    <div class="col-6" style="padding:0">
-                                        <p align="right">2.1 เมตร</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
-                            <div class="container">
-                                <div class="row" style="border-bottom:1px solid #868686">
-                                    <div class="col-6" style="padding:0">
-                                        <p><strong>ความกว้าง </strong></p>
-                                    </div>
-                                    <div class="col-6" style="padding:0">
-                                        <p align="right">4.8 เมตร</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    
                         <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
                             <div class="container">
                                 <div class="row" style="border-bottom:1px solid #868686">
@@ -57,18 +33,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
-                            <div class="container">
-                                <div class="row" style="border-bottom:1px solid #868686">
-                                    <div class="col-6" style="padding:0">
-                                        <p><strong>น้ำหนักรวม </strong></p>
-                                    </div>
-                                    <div class="col-6" style="padding:0">
-                                        <p align="right">7.5 ตัน</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                       
                         
                         <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
                             <div class="container">
@@ -76,12 +41,11 @@
                                     <div class="col-6" style="padding:0">
                                     <p><strong>อุปกรณ์สำรวจภาคพื้นดิน</strong></p>
                     <p>Drill-O-Matic Junior Mining Excavator <br>
-                    <p>Convert-O-Tron 125  <br>
+                    <p>Convert-O-Tron 125 <br>
                     <p>OP-3 Large Scanning Arm <br>
                     <p>PD-3 Weather Analyzer<br>
                     <p>Ionographer PD-22<br>
-                    <p>Probodobodyne Experiment Control Station <br>
-                    <p>Mini-NUK-PD Radioisotope Thermoelectric Generator<br>
+                    <p>และอื่นๆอีกมากมาย <br>
                    
                                     </div>
                                 </div>
@@ -121,31 +85,7 @@
                                 </div>
                             </div>
                         </div>
-                        
-                        <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
-                            <div class="container">
-                                <div class="row" style="border-bottom:1px solid #868686">
-                                    <div class="col-6" style="padding:0">
-                                        <p><strong>ความสูง</strong></p>
-                                    </div>
-                                    <div class="col-6" style="padding:0">
-                                        <p align="right">2.1 เมตร</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
-                            <div class="container">
-                                <div class="row" style="border-bottom:1px solid #868686">
-                                    <div class="col-6" style="padding:0">
-                                        <p><strong>ความกว้าง </strong></p>
-                                    </div>
-                                    <div class="col-6" style="padding:0">
-                                        <p align="right">4.8 เมตร</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    
                         <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
                             <div class="container">
                                 <div class="row" style="border-bottom:1px solid #868686">
@@ -158,18 +98,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
-                            <div class="container">
-                                <div class="row" style="border-bottom:1px solid #868686">
-                                    <div class="col-6" style="padding:0">
-                                        <p><strong>น้ำหนักรวม </strong></p>
-                                    </div>
-                                    <div class="col-6" style="padding:0">
-                                        <p align="right">7.5 ตัน</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                       
                         
                         <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
                             <div class="container">
@@ -181,9 +110,8 @@
                     <p>OP-3 Large Scanning Arm <br>
                     <p>PD-3 Weather Analyzer<br>
                     <p>Ionographer PD-22<br>
-                    <p>Probodobodyne Experiment Control Station <br>
-                    <p>Mini-NUK-PD Radioisotope Thermoelectric Generator<br>
-                    
+                    <p>และอื่นๆอีกมากมาย <br>
+                   
                                     </div>
                                 </div>
                             </div>
@@ -221,31 +149,7 @@
                                 </div>
                             </div>
                         </div>
-                        
-                        <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
-                            <div class="container">
-                                <div class="row" style="border-bottom:1px solid #868686">
-                                    <div class="col-6" style="padding:0">
-                                        <p><strong>ความสูง</strong></p>
-                                    </div>
-                                    <div class="col-6" style="padding:0">
-                                        <p align="right">2.1 เมตร</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
-                            <div class="container">
-                                <div class="row" style="border-bottom:1px solid #868686">
-                                    <div class="col-6" style="padding:0">
-                                        <p><strong>ความกว้าง </strong></p>
-                                    </div>
-                                    <div class="col-6" style="padding:0">
-                                        <p align="right">4.8 เมตร</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    
                         <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
                             <div class="container">
                                 <div class="row" style="border-bottom:1px solid #868686">
@@ -258,18 +162,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
-                            <div class="container">
-                                <div class="row" style="border-bottom:1px solid #868686">
-                                    <div class="col-6" style="padding:0">
-                                        <p><strong>น้ำหนักรวม </strong></p>
-                                    </div>
-                                    <div class="col-6" style="padding:0">
-                                        <p align="right">7.5 ตัน</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                       
                         
                         <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
                             <div class="container">
@@ -277,13 +170,12 @@
                                     <div class="col-6" style="padding:0">
                                     <p><strong>อุปกรณ์สำรวจภาคพื้นดิน</strong></p>
                     <p>Drill-O-Matic Junior Mining Excavator <br>
-                    <p>Convert-O-Tron 125  <br>
+                    <p>Convert-O-Tron 125 <br>
                     <p>OP-3 Large Scanning Arm <br>
                     <p>PD-3 Weather Analyzer<br>
                     <p>Ionographer PD-22<br>
-                    <p>Probodobodyne Experiment Control Station <br>
-                    <p>Mini-NUK-PD Radioisotope Thermoelectric Generator<br>
-                    
+                    <p>และอื่นๆอีกมากมาย <br>
+                   
                                     </div>
                                 </div>
                             </div>
@@ -325,31 +217,7 @@
                                 </div>
                             </div>
                         </div>
-                        
-                        <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
-                            <div class="container">
-                                <div class="row" style="border-bottom:1px solid #868686">
-                                    <div class="col-6" style="padding:0">
-                                        <p><strong>ความสูง</strong></p>
-                                    </div>
-                                    <div class="col-6" style="padding:0">
-                                        <p align="right">2.1 เมตร</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
-                            <div class="container">
-                                <div class="row" style="border-bottom:1px solid #868686">
-                                    <div class="col-6" style="padding:0">
-                                        <p><strong>ความกว้าง </strong></p>
-                                    </div>
-                                    <div class="col-6" style="padding:0">
-                                        <p align="right">4.8 เมตร</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    
                         <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
                             <div class="container">
                                 <div class="row" style="border-bottom:1px solid #868686">
@@ -362,18 +230,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
-                            <div class="container">
-                                <div class="row" style="border-bottom:1px solid #868686">
-                                    <div class="col-6" style="padding:0">
-                                        <p><strong>น้ำหนักรวม </strong></p>
-                                    </div>
-                                    <div class="col-6" style="padding:0">
-                                        <p align="right">7.5 ตัน</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                       
                         
                         <div class="col-12 pt-3 wow fadeInUp" data-wow-delay="0.7s">
                             <div class="container">
@@ -381,13 +238,12 @@
                                     <div class="col-6" style="padding:0">
                                     <p><strong>อุปกรณ์สำรวจภาคพื้นดิน</strong></p>
                     <p>Drill-O-Matic Junior Mining Excavator <br>
-                    <p>Convert-O-Tron 125  <br>
+                    <p>Convert-O-Tron 125 <br>
                     <p>OP-3 Large Scanning Arm <br>
                     <p>PD-3 Weather Analyzer<br>
                     <p>Ionographer PD-22<br>
-                    <p>Probodobodyne Experiment Control Station <br>
-                    <p>Mini-NUK-PD Radioisotope Thermoelectric Generator<br>
-                    
+                    <p>และอื่นๆอีกมากมาย <br>
+                   
                                     </div>
                                 </div>
                             </div>
