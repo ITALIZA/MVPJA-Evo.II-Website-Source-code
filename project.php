@@ -102,7 +102,7 @@
                 
                 <h1 class="" style="font-size 12px">อุปกรณ์ของดาวเทียม</h1>  
                 <div class="item">
-                    <img src="./assets/images/204px-OX-10L_front_deployed.png" class="img-fluid" data-toggle="tooltip" title="โซล่าเซลล์">
+                    <img src="./assets/images/LongSolarCell.png" class="img-fluid" data-toggle="tooltip" title="โซล่าเซลล์">
                     <p align="center" class="">OX-10L Photovoltaic Panels (Long Solarcells)</p>
                 </div>
                 <div class="item">
@@ -114,7 +114,7 @@
                     <p align="center" class="">Advanced Reaction Wheel Module, Large</p>
                 </div>
                 <div class="item">
-                    <img src="" class="img-fluid" data-toggle="tooltip" title="เชื้อเพลิงของแข็ง">
+                    <img src="./assets/images/Clydesdale(2).png" class="img-fluid" data-toggle="tooltip" title="เชื้อเพลิงของแข็ง">
                     <p align="center" class="">	S2-33 "Clydesdale" Solid Fuel Booster (Solid Fuel Booster)</p>
                 </div>
                 <div class="item">
@@ -162,11 +162,11 @@
                     <p align="center" class="">RE-I5 "Skipper" Liquid Fuel Engine</p>
                 </div>
                 <div class="item">
-                    <img src="./assets/images/Stratus-V_Cylindrified.png" class="img-fluid" data-toggle="tooltip" title="ถังเชื้อเพลิง RCS">
+                    <img src="./assets/images/Stratus.png" class="img-fluid" data-toggle="tooltip" title="ถังเชื้อเพลิง RCS">
                     <p align="center" class="">Stratus-V Cylindrified Monopropellant Tank</p>
                 </div>
                 <div class="item">
-                    <img src="./assets/images/StructuralWingTypeA.png" class="img-fluid" data-toggle="tooltip" title="ปีกของดาวเทียม">
+                    <img src="./assets/images/StructuralWing.png" class="img-fluid" data-toggle="tooltip" title="ปีกของดาวเทียม">
                     <p align="center" class="">Structural Wing Type A</p>
                 </div>
                 <div class="item">
@@ -178,7 +178,7 @@
                     <p align="center" class="">TS-25 Stack Separator</p>
                 </div>
                 <div class="item">
-                    <img src="./assets/images/TT-38K.png" class="img-fluid" data-toggle="tooltip" title="ตัวเชื่อมต่อระหว่างยาน">
+                    <img src="./assets/images/TT-38Knew.png" class="img-fluid" data-toggle="tooltip" title="ตัวเชื่อมต่อระหว่างยาน">
                     <p align="center" class="">TT-38K Radial Decoupler</p>
                 </div>
                 <div class="item">

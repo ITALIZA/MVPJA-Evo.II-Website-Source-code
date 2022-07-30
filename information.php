@@ -44,7 +44,7 @@
             <div class="row">
                 <div class="col-xl-6 pt-4">
                     <h2><b>Biome ต่างๆ</b></h2>
-                    <img src="./assets/images/biome.png" class="img-fluid" style="border-radius:10px" alt="">
+                    <img src="./assets/images/biome2.png" class="img-fluid" style="border-radius:10px" alt="">
                     <div class="row">
                         <div class="col-8">
                             <p> <br>Biome ต่างๆบนดาวอีฟที่ดาวเทียมสามารถเก็บข้อมูลได้</p>
@@ -57,7 +57,7 @@
                 <div class="col-xl-6 pt-4">
                     <h2><b>พื้นที่ที่มีแร่อยู่มาก</b></h2>
 
-                    <img src="./assets/images/liveable.jpg" class="img-fluid" style="border-radius:10px" alt="">
+                    <img src="./assets/images/Image(2).jpg" class="img-fluid" style="border-radius:10px" alt="">
                     <p> <br>จากข้อมูลทรัพยากรใต้ธรณีและการสำรวจเพิ่มเติมสามารถสรุปได้ว่า </p>
                     <p><br>หินอัคนี : พบได้ทุก Biome<p>
                     <p><br>Basalt formation : พบได้ที่ peaks, impact ejecta, highlands, Olympus, craters, foothills, shallows<p>

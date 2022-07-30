@@ -28,10 +28,7 @@
         Evo.II
 
       </h1>
-      <h5 class="wow fadeInUp" data-wow-delay="0.6s" align="center" style="color:white;">
-        ถ้าหากโลกเราอยู่ไม่ได้ เราต้องทำยังไง ใช่ เราต้องย้ายที่อยู่
-      </h5>
-
+      <h5 class="wow fadeInUp" data-wow-delay="0.6s" align="center" style="color:white;">ข้อมูลล้วนมีประโยชน์ การสำรวจก็เช่นกัน</h5>
     </div>
     <section id="section05" class="align-self-end">
       <a href="#khaos"><span></span></a>
