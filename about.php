@@ -25,7 +25,10 @@
 
 
                 ABOUT US
+                <h1 class="header wow fadeInUp" data-wow-delay="0.3s" style="font-size:40px">ig :mvpja_evo.ii </h1>
             </h1>
+            
+                    
             <h5 class="wow fadeInUp" data-wow-delay="0.6s" align="center" style="color:white;">
             </h5>
         </div>

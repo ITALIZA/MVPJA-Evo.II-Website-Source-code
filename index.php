@@ -28,7 +28,7 @@
         Evo.II
 
       </h1>
-      <h5 class="wow fadeInUp" data-wow-delay="0.6s" align="center" style="color:white;">นกที่บินไม่ได้ อาจไม่ใช่นกที่ไม่พยายาม แต่เป็นนกเพนกวิน </h5>
+      <h5 class="wow fadeInUp" data-wow-delay="0.6s" align="center" style="color:white;">เรานำความล้มเหลว มาเรียนรู้เป็นประสบการณ์ และนำประสบการณ์มาปรับปรุงแก้ใขให้ดีขึ้น </h5>
     </div>
     <section id="section05" class="align-self-end">
       <a href="#khaos"><span></span></a>
